@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "grew up",
+  "base_artist": "Vce Nava",
+  "createdAt": "2025-12-10T06:31:44.384508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grew Up On That",
+      "artist": "High Valley",
+      "has_synced": true,
+      "path": "select/01_Grew_Up_On_That_High_Valley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Grew Up a Screw Up",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/02_Grew_Up_a_Screw_Up_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grew Up a Screw Up (feat. Young Jeezy)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/03_Grew_Up_a_Screw_Up_(feat._Young_Jeezy)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Grew Up Last Night",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/04_I_Grew_Up_Last_Night_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grew Up Fast",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": true,
+      "path": "select/05_Grew_Up_Fast_Tom_Petty_and_the_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Grew Up Fast",
+      "artist": "Tom Petty & The Heartbreakers",
+      "has_synced": true,
+      "path": "select/06_Grew_Up_Fast_Tom_Petty_&_The_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Grew Up Together",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/07_We_Grew_Up_Together_Carole_King.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Grew Up a Little Bit",
+      "artist": "Harry Chapin",
+      "has_synced": false,
+      "path": "select/08_We_Grew_Up_a_Little_Bit_Harry_Chapin.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grew Up Fast (2018 Remaster)",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": true,
+      "path": "select/09_Grew_Up_Fast_(2018_Remaster)_Tom_Petty_and_the_Heartbreakers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "grew up (feat. YELLASOMA)",
+      "artist": "VCE NAVA",
+      "has_synced": false,
+      "path": "select/pl_01_grew_up_(feat._YELLASOMA)_VCE_NAVA.txt"
+    }
+  ]
+}
